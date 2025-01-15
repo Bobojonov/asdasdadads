@@ -1,7 +1,7 @@
 package neetcode.queue;
 
 public class SingleThreadedCPU {
-    public int[] getOrder(int[][] tasks) {
-
-    }
+//    public int[] getOrder(int[][] tasks) {
+//
+//    }
 }

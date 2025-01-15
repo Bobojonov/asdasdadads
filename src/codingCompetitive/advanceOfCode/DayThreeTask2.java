@@ -1,4 +1,4 @@
-package codingCompetitive.AdvanceOfCode;
+package codingCompetitive.advanceOfCode;
 
 import java.io.BufferedReader;
 import java.io.IOException;

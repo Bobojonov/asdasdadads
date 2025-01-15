@@ -1,4 +1,4 @@
-package codingCompetitive.AdvanceOfCode;
+package codingCompetitive.advanceOfCode;
 
 import java.util.ArrayList;
 import java.util.List;

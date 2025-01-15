@@ -1,7 +1,6 @@
-package codingCompetitive.AdvanceOfCode;
+package codingCompetitive.advanceOfCode;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 
 public class DaySeven extends AOCTasks {
